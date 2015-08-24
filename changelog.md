@@ -1,12 +1,7 @@
 
-# jq-trim - Changelog
-## v0.1.1
-- **Build Scripts Changes**
-  - Update dependencies and build scripts - [c6afc4d]( https://github.com/royriojas/jq-trim/commit/c6afc4d ), [royriojas](https://github.com/royriojas), 30/07/2015 15:00:50
-
-    
+# dash-2-camel - Changelog
 ## v0.1.0
 - **Features**
-  - first working version - [e586662]( https://github.com/royriojas/jq-trim/commit/e586662 ), [royriojas](https://github.com/royriojas), 25/07/2015 01:44:18
+  - first working version - [c8c218b]( https://github.com/royriojas/dash-2-camel/commit/c8c218b ), [Roy Riojas](https://github.com/Roy Riojas), 23/08/2015 23:30:15
 
     
